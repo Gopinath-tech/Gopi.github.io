@@ -75,13 +75,13 @@ ul li.active a{
 }
 .box{
 	position: absolute;
-	top: 70%;
+	top: 60%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
 .box img{
 	float: center;
-	width: 150px;
+	width: 100px;
 	height: auto;
 }
 .box h1{
